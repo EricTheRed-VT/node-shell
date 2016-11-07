@@ -1,0 +1,25 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "packages file",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricTheRed-VT/node-shell.git"
+  },
+  "keywords": [
+    "packages"
+  ],
+  "author": "everyoneforever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricTheRed-VT/node-shell/issues"
+  },
+  "homepage": "https://github.com/EricTheRed-VT/node-shell#readme",
+  "dependencies": {
+    "request": "^2.78.0"
+  }
+}
